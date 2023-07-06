@@ -1,0 +1,29 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.heading {
+  color: #171f46;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  text-align: center;
+  width: 20%;
+}
+
+.subheading {
+  color: #2b237c;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.timeline-container {
+  height: 300px;
+  width: 90%;
+  flex-grow: 1;
+  margin-top: 30px;
+}
